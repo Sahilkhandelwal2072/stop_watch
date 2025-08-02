@@ -15,10 +15,8 @@ A simple and responsive stopwatch built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Preview
 
-> **Note:** Replace `screenshot.png` with your actual screenshot file.
-
-![Preview](./assets/screenshot.png)
-
+![img-alt](https://github.com/Sahilkhandelwal2072/stop_watch/blob/main/screenshots/1.png)
+![img-alt](https://github.com/Sahilkhandelwal2072/stop_watch/blob/main/screenshots/2.png)
 
 
 ## 🛠️ Tech Stack
