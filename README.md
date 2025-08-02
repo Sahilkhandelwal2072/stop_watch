@@ -2,7 +2,7 @@
 
 A simple and responsive stopwatch built using **HTML**, **CSS**, and **JavaScript**. This app allows users to start, stop, and reset the timer — perfect for tracking time on small tasks or workouts.
 
----
+
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ A simple and responsive stopwatch built using **HTML**, **CSS**, and **JavaScrip
 - Lightweight and runs in any modern browser  
 - No external dependencies  
 
----
+
 
 ## 📸 Preview
 
@@ -19,7 +19,7 @@ A simple and responsive stopwatch built using **HTML**, **CSS**, and **JavaScrip
 
 ![Preview](./assets/screenshot.png)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ A simple and responsive stopwatch built using **HTML**, **CSS**, and **JavaScrip
 - **CSS** – For styling the stopwatch  
 - **JavaScript** – For functionality and timer logic  
 
----
+
 
 ## 📁 Project Structure
 
@@ -47,7 +47,7 @@ stopwatch/
 
 
 ```bash
-git clone https://github.com/yourusername/stopwatch.git
+git clone https://github.com/Sahilkhandelwal2072/stop_watch
 ```
 
 2. **Open index.html in your browser:**
